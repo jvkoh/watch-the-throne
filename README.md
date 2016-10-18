@@ -23,26 +23,25 @@
 
 ## Scoring
 
-Scoring shooting is strange, here's what it looks like per event
+### Shooting
+Scoring shooting is kinda weird.  Here's what points you will get based on player events.
 
 - Missed FT = -1
 - Missed 2pt = -.5
-- Missed 3pt = -1
+- Missed 3pt = -.5
 - Made FT = 1
 - Made 2pt = 2
-- Made 3pt = 3.5
+- Made 3pt = 3
 
-Here's what it looks like per "stat"
+Here's what those points look like per stat-category
 
-- FG attempt = -.5
-- FG made = .5
+- FG attempt = -.5 (includes 3s)
+- FG made = .5 (includes 3s)
 - FT attempt = -1
 - FT made = 1
-- 3pt attempt = -.5
-- 3pt made = 1
 - Points scored = 1
 
-** Other Stats **
+### Other Stats
 
 - Rebounds = 1
 - Assists = 1.5
