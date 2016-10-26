@@ -26,7 +26,7 @@
 ### Shooting
 Scoring shooting is kinda weird.  Here's what points you will get based on player events.
 
-- Missed FT = -1
+- Missed FT = -.5
 - Missed 2pt = -.5
 - Missed 3pt = -.5
 - Made FT = 1
@@ -37,8 +37,8 @@ Here's what those points look like per stat-category
 
 - FG attempt = -.5 (includes 3s)
 - FG made = .5 (includes 3s)
-- FT attempt = -1
-- FT made = 1
+- FT attempt = -.5
+- FT made = .5
 - Points scored = 1
 
 ### Other Stats
