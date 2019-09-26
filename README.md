@@ -54,14 +54,15 @@ Here's what those points look like per stat-category
 
 **Auction Draft**
 
-- Everyone gets $200 fake dollars to spend in the auction
+- Everyone gets $250 fake dollars to spend in the auction
 - We do snake order player nominations (as per a normal snake draft)
 - Each player who is nominated gets auctioned off, starting at the offer price set by the nominating team
 
 
 ## Money
 
-- $20 buy-in
+- Roughly $30 buy-in
+- Weekly points winner gets $4
 - Regular season winner gets $80
 - Regular season loser pays an extra $20 (incentive to say in the game)
 - Playoffs Runner-up gets $20 (wins buy-in back)
