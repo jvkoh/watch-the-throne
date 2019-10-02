@@ -35,10 +35,10 @@ Scoring shooting is kinda weird.  Here's what points you will get based on playe
 
 Here's what those points look like per stat-category
 
-- FG attempt = -.5 (includes 3s)
-- FG made = .5 (includes 3s)
-- FT attempt = -.5
-- FT made = .5
+- FG attempt = -0.5 (includes 3s)
+- FG made = 0.5 (includes 3s)
+- FT attempt = -0.5
+- FT made = 0.5
 - Points scored = 1
 
 ### Other Stats
@@ -47,7 +47,7 @@ Here's what those points look like per stat-category
 - Assists = 1.5
 - Steals = 2
 - Blocks = 2
-- Turnovers = -1.5
+- Turnovers = -2
 
 
 ## Draft
