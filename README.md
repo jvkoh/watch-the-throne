@@ -26,7 +26,7 @@
 ### Shooting
 Scoring shooting is kinda weird.  Here's what points you will get based on player events.
 
-- Missed FT = -.5
+- Missed FT = -1
 - Missed 2pt = -.5
 - Missed 3pt = -.5
 - Made FT = 1
