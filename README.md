@@ -62,7 +62,7 @@ Here's what those points look like per stat-category
 ## Money
 
 - Roughly $30 buy-in
-- Weekly points winner gets $4
+- Weekly points winner gets $6
 - Regular season winner gets $80
 - Regular season loser pays an extra $20 (incentive to say in the game)
 - Playoffs Runner-up gets $20 (wins buy-in back)
